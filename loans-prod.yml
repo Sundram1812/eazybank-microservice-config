@@ -1,11 +1,11 @@
 build:
-  version: "5.0"
+  version: "1.0"
 
 
 loans:
   message: "Welcome to EazyBank loans related Prod APIs"
   contactDetails:
-    name: "kumari - Product Owner "
+    name: "kumari unknown - Product Owner "
     email: "kumari@gmail.com"
   onCallSupports:
     - (222)0001111
