@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+loans:
+  message: "Welcome to EazyBank Loans related QA APIs"
+  contactDetails:
+    name: "kumar - QA lead "
+    email: "kumar@gmail.com"
+  onCallSupports:
+    - (333)0001111
+    - (333)0002222

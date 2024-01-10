@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+
+cards:
+  message: "Welcome to EazyBank Cards related Local APIs"
+  contactDetails:
+    name: "Ram - Developer "
+    email: "ram.bhagwan@god.com"
+  onCallSupports:
+    - (555)0001111
+    - (555)0002222

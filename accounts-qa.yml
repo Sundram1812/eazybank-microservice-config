@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+accounts:
+  message: "Welcome to EazyBank Accounts related QA APIs"
+  contactDetails:
+    name: "Satyam Kumar - QA Lead"
+    email: "satyam62048@gmail.com"
+  onCallSupports:
+    - (+91)0999999999
+    - (+91)7788996655

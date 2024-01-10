@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+
+accounts:
+  message: "Welcome to EazyBank Accounts related prod APIs"
+  contactDetails:
+    name: "krishan - Product Owner"
+    email: "krishan62048@gmail.com"
+  onCallSupports:
+    - (+91)0000000000
+    - (+91)1111111111

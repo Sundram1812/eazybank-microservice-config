@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+cards:
+  message: "Welcome to EazyBank Cards related QA APIs"
+  contactDetails:
+    name: "krishan - QA lead "
+    email: "krishan.bhagwan@god.com"
+  onCallSupports:
+    - (666)0001111
+    - (666)0002222
