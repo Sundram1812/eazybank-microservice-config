@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank Accounts related prod APIs"
   contactDetails:
     name: "krishan - Product Owner"
-    email: "krishan62048@gmail.com"
+    email: "{cipher}4e0d42b9b2267dc1468171be5384d22412f5b3a523c15c93aef87e57579956e60897aaa13b25f391a63e7e41b5d4e8ae"
   onCallSupports:
     - (+91)0000000000
     - (+91)1111111111
