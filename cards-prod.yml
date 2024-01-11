@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank Cards related prod APIs"
+  message: "Welcome to EazyBank Cards related production APIs"
   contactDetails:
     name: "shri-hari - QA lead "
     email: "shri.hari.bhagwan@god.com"
