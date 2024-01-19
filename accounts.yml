@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank Accounts related docker APIs"
+  message: "Welcome to EazyBank Accounts related local APIs"
   contactDetails:
     name: "Sundram kumar - Developer"
     email: "sundram62048@gmail.com"
